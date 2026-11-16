@@ -15,6 +15,6 @@ I build software products by leading AI. I decide what gets built and why, write
 
 Real problem first · rules before code · people confirm what matters · privacy built in from day one · honest about what worked and who (or what) wrote the code
 
-📂 **[See all my projects](https://github.com/Alesha234/alesha-buckins-projects)** · 💼 **[LinkedIn](https://www.linkedin.com/in/aleshabuckins)** · 💳 **[Try Digna](https://digna.dev)**
+📂 **[See all my projects](https://github.com/Alesha234/alesha-buckins-projects)** · 💼 **[LinkedIn](https://www.linkedin.com/in/aleshabuckins)** · 💳 **[Try Digna](https://digna.dev)** · 🆔 **[ORCID](https://orcid.org/0009-0005-2060-5052)**
 
 Open to AI product management and AI solutions roles. Off the clock: anime and video games 🎮
